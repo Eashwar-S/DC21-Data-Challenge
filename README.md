@@ -5,5 +5,17 @@ Packaged Meals dataset was released by United States Department of Agriculture f
 
 ![](output/figures/out17.png)
 
+## Software Used:
+1. Python version 3.8
 
-For more information please click [here](https://github.com/Eashwar-S/DC21-Data-Challenge/blob/master/presentation/DC21067-Presentation.pdf)
+## Libraries Used:
+1. Matplotlib
+2. Pandas
+
+
+## Project Presentation:
+Please click [here](https://github.com/Eashwar-S/DC21-Data-Challenge/blob/master/presentation/DC21067-Presentation.pdf)
+
+
+## Project Abstract:
+Please click [here](https://github.com/Eashwar-S/DC21-Data-Challenge/blob/master/proposal/Proposal_DC21067.pdf)
